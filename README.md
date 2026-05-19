@@ -9,6 +9,7 @@
 - Python 3.10+
 - PyCharm
 - psycopg2
+- pgAdmin 4 (веб-интерфейс)
 
 ## Запуск
 
