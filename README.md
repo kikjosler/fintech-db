@@ -1,4 +1,4 @@
-# 🏦 Fintech SQL Practice (PyCharm)
+# Fintech DB
 
 Проект для практики **базовых SQL-запросов**: SELECT, JOIN, WHERE, GROUP BY.
 
